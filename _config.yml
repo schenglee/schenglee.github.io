@@ -1,39 +1,39 @@
 # Site
 repository: schenglee/schenglee.github.io
-favicon: images/favicon.ico
+favicon: images/icon.png
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Shucheng Li
+title: PhD student
+email: shuchengli@smail.nju.edu.cn
+website: https://schenglee.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+# github_username:  schenglee
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+# linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: google_scholar
+#   icon: images/google-scholar-square.jpg
+#   url: https://scholar.google.com/citations?user=Nec2b_oAAAAJ
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,75 +46,88 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/selfie.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I was admitted to Nanjing University in September 2015 and received my B.Sc. degree in Computer Science and Technology department of Nanjing University in June 2019. In the same year, I was admitted to study for a PhD degree led by [Prof. Fengyuan Xu](https://cs.nju.edu.cn/fxu/index.htm) in Nanjing University without entrance examination. [Google scholar](https://scholar.google.com/citations?user=Nec2b_oAAAAJ) and [Github](https://github.com/schenglee).
 
 content:
+  - title: Education
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      * ***Nanjing University***, Computer Science and Technology, **student pursuing a PhD degree**, &nbsp;&nbsp;from 2019.9
+      * ***Nanjing University***, Computer Science and Technology, **B.Sc. degree**, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015.9 - 2019.6
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Graph4NLP
+        link: https://github.com/graph4ai/graph4nlp
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title: Graph4NLP
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/graph4ai/graph4nlp
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
+          Graph4nlp is the library for the easy use of Graph Neural Networks for NLP. I am very pleased to work for such an interesting library with a group of enthusiastic developers.
+  - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      **PREPRINT**
+      - **Shucheng Li**, Fengyuan Xu, Runchuan Wang, and Sheng Zhong. "Self-supervised incremental deep graph learning for ethereum phishing scam detection". [PDF](https://arxiv.org/abs/2106.10176)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      **JOURNAL**
+      - Lingfei Wu, Yu Chen, Kai Shen, Xiaojie Guo, Hanning Gao, **Shucheng Li**, Jian Pei, and Bo Long. "Graph Neural Networks for Natural Language Processing: A Survey", Foundations and Trends$^® in Machine Learning 2022 (**FnT-MAL 2022**). [PDF](https://arxiv.org/abs/2106.06090)
+      
+      **CONFERENCE**
+      - **Shucheng Li**, Boyu Chang, Bo yang, Hao Wu, Sheng Zhong and Fengyuan Xu. "Dataset Preparation for Arbitrary Object Detection: An Automatic Approach based on Web Information in English". In the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**). [PDF](https://dl.acm.org/doi/10.1145/3539618.3591661)
+      
+      - Yue Duan, Xin Zhao, Yu Pan, **Shucheng Li**, Minghao Li, Fengyuan Xu, Mu Zhang. "Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications". In the Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security. (**CCS 2022**), **Best Paper Honorable Mention Award**. [PDF](https://dl.acm.org/doi/10.1145/3548606.3559384)
+      
+      - **Shucheng Li**\*, Lingfei Wu\*, Shiwei Feng, Fangli Xu, Fengyuan Xu and Sheng Zhong (*Equally Contributed). "Graph-to-Tree Neural Networks for Learning Structured Input-Output Translation with Applications to Semantic Parsing and Math Word Problem". In the 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020 FINDINGS**). [PDF](https://aclanthology.org/2020.findings-emnlp.255/) [CODE](https://github.com/IBM/Graph2Tree)
+      
+      - **Shucheng Li**, Lingfei Wu, Shiwei Feng, YulongTian, Fengyuan Xu, Fangli Xu and Sheng Zhong. "Toward Automated Queries Generation from Natural Language Description Using Graph Neural Networks". In International Conference on AI + Adaptive Education 2019 (**AIAED 2019**), **Best Student Paper**.
+
+      - **Shucheng Li**, Lingfei Wu, Shiwei Feng, Yulong Tian, Fengyuan Xu, Fangli Xu and Sheng Zhong. "An Empirical Study of Graph Neural Networks Based Semantic Parsing". In the First International Workshop on Deep Learning on Graphs: Methods and Applications, in Conjunction with the 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD-DLG 2019**), **Best Student Paper**.
+
+  - title: Patents
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Auto Object Detection in Open World based on Simple Description. Fengyuan Xu, Hao Wu, **Shucheng Li**, Huaao Tang. 2022/05. ZL 2022 1 0548406.8
+
+  - title: Awards and Honors
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - I was invited as a PC member in the Second International Workshop on Deep Learning on Graphs: Methods and Applications (DLG-KDD'20)
+      - Presidential Scholarship, September 2019
+      - Best student paper in DLG19 (KDD Workshop on Deep Learning on Graphs), August 2019
+      - Outstanding undergraduate graduation thesis (Top 2%), June 2019
+      - Best student paper with travel award in AIAED19, May 2019
+      - Major Award of Academic Performance Scholarship (Top 5%), November 2016
+      - Second-class Award of GuangHua Scholarship, November 2016
+
+  # - title: Experience # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       title: The Boring Company
+  #       link: boringcompany.com
+  #       # link_text: boringcompany.com
+  #       sub_title: Senior Network System Administrator
+  #       caption: November 2017 - Present
+  #       quote: >
+  #         Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  #       description: | # this will include new lines to allow paragraphs
+  #           Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: National Key Laboratory for Novel Software Technology, Nanjing University, Xianlin Campus, 163 Xianlin Avenue, Qixia District, Nanjing 210023, China
 
 # Build settings
 remote_theme: sproogen/resume-theme
