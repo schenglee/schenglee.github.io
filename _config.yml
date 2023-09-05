@@ -98,7 +98,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Auto Object Detection in Open World based on Simple Description. Fengyuan Xu, Hao Wu, **Shucheng Li**, Huaao Tang. 2022/05. ZL 2022 1 0548406.8
-
+      - Self-Supervised Deep Graph Learning Based Ethereum Phishing Scam Detection. Fengyuan Xu, Hao Wu, **Shucheng Li**, Runchuan Wang. 2022/03. ZL 2023 1 0328325.1
   - title: Awards and Honors
     layout: text
     content: | # this will include new lines to allow paragraphs
