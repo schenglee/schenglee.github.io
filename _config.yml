@@ -54,8 +54,8 @@ content:
   - title: Education
     layout: text
     content: | # this will include new lines to allow paragraphs
-      * ***Nanjing University***, Computer Science and Technology, **student pursuing a PhD degree**, &nbsp;&nbsp;from 2019.9
-      * ***Nanjing University***, Computer Science and Technology, **B.Sc. degree**, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015.9 - 2019.6
+      * ***Nanjing University***, Computer Science and Technology, **student pursuing a PhD degree**, from 2019.9
+      * ***Nanjing University***, Computer Science and Technology, **B.Sc. degree**, 2015.9 - 2019.6
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -75,6 +75,11 @@ content:
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           Graph4nlp is the library for the easy use of Graph Neural Networks for NLP. I am very pleased to work for such an interesting library with a group of enthusiastic developers.
+  - title: Research interests # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      Graph Neural Networks, Natural Language Processing, Dataset Preparation
+
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
