@@ -87,11 +87,11 @@ content:
       - Lingfei Wu, Yu Chen, Kai Shen, Xiaojie Guo, Hanning Gao, **Shucheng Li**, Jian Pei, and Bo Long. "Graph Neural Networks for Natural Language Processing: A Survey", Foundations and Trends^® in Machine Learning 2022 (**FnT-MAL 2022**). [PDF](https://arxiv.org/abs/2106.06090)
       
       **CONFERENCE**
-      - **Shucheng Li**, Runchuan Wang, Hao Wu, Sheng Zhong and Fengyuan Xu. "SIEGE: Self-Supervised Incremental Deep Graph Learning for Ethereum Phishing Scam Detection". In the 31st ACM International Conference on Multimedia. (**MM 23**). [PDF](https://dl.acm.org/doi/10.1145/3581783.3612461)
+      - **Shucheng Li**, Runchuan Wang, Hao Wu, Sheng Zhong and Fengyuan Xu. "SIEGE: Self-Supervised Incremental Deep Graph Learning for Ethereum Phishing Scam Detection". In the 31st ACM International Conference on Multimedia. (**MM 23, CCF-A**). [PDF](https://dl.acm.org/doi/10.1145/3581783.3612461)
 
-      - **Shucheng Li**, Boyu Chang, Bo yang, Hao Wu, Sheng Zhong and Fengyuan Xu. "Dataset Preparation for Arbitrary Object Detection: An Automatic Approach based on Web Information in English". In the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**). [PDF](https://dl.acm.org/doi/10.1145/3539618.3591661)
+      - **Shucheng Li**, Boyu Chang, Bo yang, Hao Wu, Sheng Zhong and Fengyuan Xu. "Dataset Preparation for Arbitrary Object Detection: An Automatic Approach based on Web Information in English". In the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023, CCF-A**). [PDF](https://dl.acm.org/doi/10.1145/3539618.3591661)
       
-      - Yue Duan, Xin Zhao, Yu Pan, **Shucheng Li**, Minghao Li, Fengyuan Xu, Mu Zhang. "Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications". In the Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security. (**CCS 2022**), **Best Paper Honorable Mention Award**. [PDF](https://dl.acm.org/doi/10.1145/3548606.3559384)
+      - Yue Duan, Xin Zhao, Yu Pan, **Shucheng Li**, Minghao Li, Fengyuan Xu, Mu Zhang. "Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications". In the Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security. (**CCS 2022, CCF-A**), **Best Paper Honorable Mention Award**. [PDF](https://dl.acm.org/doi/10.1145/3548606.3559384)
       
       - **Shucheng Li**\*, Lingfei Wu\*, Shiwei Feng, Fangli Xu, Fengyuan Xu and Sheng Zhong (*Equally Contributed). "Graph-to-Tree Neural Networks for Learning Structured Input-Output Translation with Applications to Semantic Parsing and Math Word Problem". In the 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020 FINDINGS**). [PDF](https://aclanthology.org/2020.findings-emnlp.255/) [CODE](https://github.com/IBM/Graph2Tree)
       
