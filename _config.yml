@@ -48,7 +48,7 @@ darkmode: false
 # about_title: About Me
 about_profile_image: images/selfie.png
 about_content: | # this will include new lines to allow paragraphs
-  I was admitted to Nanjing University in September 2015 and received my B.Sc. degree in Computer Science and Technology department of Nanjing University in June 2019. In the same year, I was admitted to study for a PhD degree led by [Prof. Fengyuan Xu](https://cs.nju.edu.cn/fxu/index.htm) in Nanjing University without entrance examination. [Google scholar](https://scholar.google.com/citations?user=Nec2b_oAAAAJ) and [Github](https://github.com/schenglee).
+  I was admitted to Nanjing University in September 2015 and received my B.Sc. degree in Computer Science and Technology department of Nanjing University in June 2019. In the same year, I was admitted to study for a PhD degree led by [**Prof. Fengyuan Xu**](https://cs.nju.edu.cn/fxu/index.htm) in Nanjing University without entrance examination. [**Google scholar**](https://scholar.google.com/citations?user=Nec2b_oAAAAJ) and [**Github**](https://github.com/schenglee).
 
 content:
   - title: Education
